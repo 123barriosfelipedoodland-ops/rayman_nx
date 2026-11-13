@@ -4,7 +4,7 @@
 
 # rayman_nx
 
-**Rayman Jungle Run for Nintendo Switch**
+**Rayman Jungle Run For Nintendo Switch**
 
 An unofficial Nintendo Switch native wrapper for the 32-bit Android release of  
 **Rayman Jungle Run**.
